@@ -1,0 +1,20 @@
+.recipepic{
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainbody{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
